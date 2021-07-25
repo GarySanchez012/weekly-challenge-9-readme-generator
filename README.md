@@ -24,4 +24,7 @@ GIVEN a command-line application that accepts user input
     * THEN I am taken to the corresponding section of the README
 
 ## **Website**
-https://garysanchez012.github.io/weekly-challenge-9-readme-generator/
+https://github.com/GarySanchez012/weekly-challenge-9-readme-generator
+
+## **Video**
+
